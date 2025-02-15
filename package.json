@@ -1,0 +1,18 @@
+{
+  "name": "dev-tinder-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "dev": "nodemon src/app.js",
+    "build": "node src/app.js"
+    
+  },
+  "author": "Shariq",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}
