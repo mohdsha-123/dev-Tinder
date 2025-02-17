@@ -6,13 +6,13 @@
   "scripts": {
     "dev": "nodemon src/app.js",
     "build": "node src/app.js"
-    
   },
   "author": "Shariq",
   "license": "ISC",
   "description": "",
   "dependencies": {
     "express": "^4.21.2",
+    "mongoose": "^8.10.1",
     "nodemon": "^3.1.9"
   }
 }
